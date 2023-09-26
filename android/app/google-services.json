@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615787984475",
+    "project_id": "miniwall-1844f",
+    "storage_bucket": "miniwall-1844f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615787984475:android:0edbe76ebbd12273ccb17e",
+        "android_client_info": {
+          "package_name": "com.example.miniwall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvc3UJV5bnvB4dV1-Fv7NlhLp52QtJn8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
